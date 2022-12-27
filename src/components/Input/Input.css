@@ -1,0 +1,12 @@
+.inputsForm {
+  height: 3.5rem;
+  margin-bottom: 1rem;
+  border-radius: 100px;
+  border: none;
+  text-align: center;
+  border: 1px solid #0060df;
+}
+
+.inputsForm:last-of-type {
+  margin-bottom: 0;
+}

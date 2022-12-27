@@ -1,0 +1,19 @@
+.buttonsForm {
+  border-radius: 100px;
+  border: none;
+  background-color: #0060df;
+  color: white;
+  padding: 0.7rem 0;
+  cursor: pointer;
+  transition: 200ms opacity ease;
+  margin-top: 2rem;
+  height: 3.5rem;
+}
+
+.buttonsForm:hover {
+  opacity: 0.75;
+}
+
+.buttonsForm:active {
+  opacity: 0.5;
+}
